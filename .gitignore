@@ -2,6 +2,7 @@
 
 # other
 /react-dice-assets
+*.zip
 
 # dependencies
 /node_modules
